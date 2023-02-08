@@ -41,4 +41,4 @@ Etape 2:
  Créer ensuite une table user avec :
      - un id
      - un username
-     - un password
+     - un password 
