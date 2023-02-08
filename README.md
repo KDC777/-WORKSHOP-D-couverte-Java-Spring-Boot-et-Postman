@@ -78,7 +78,8 @@ Exercice 5 :
     Maintenant que nous avons implémenter la possibilité de pouvoir communiquer avec la Database et nos routes, il faut maintenant faire le lien entre 
     les deux.
 
-    Vous pouvez utiliser à nouveau Postman pour envoyer des requêtes à notre serveur pour s'enregistrer ou s'authentifier !
+    Une fois fait :
+    Vous pouvez à nouveau utiliser Postman pour envoyer des requêtes à notre serveur pour s'enregistrer ou s'authentifier !
     Vérifier cependant dans votre database que tout fonctionne bien !
   
   
