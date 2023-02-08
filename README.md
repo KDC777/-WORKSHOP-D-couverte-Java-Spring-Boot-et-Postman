@@ -37,37 +37,22 @@ Etape 2:
  
  Exercice 1 :
  
-    Créer une database "Workshop" avec mySql
+    Créer une database "Workshop".
     Créer ensuite une table "user" avec :
      
      - un id
      - un username
      - un password 
      
-     Vous devez ensuite l'implémenter dans ressources/application.properties
+     Vous devrez ensuite implémenter et configurer l'accés à votre database dans ressources/application.properties.
      
   Exercice 2 :
  
       Implémenter User.java
       
-      Ce fichier a pour but de stocker dans des variables ce qu'on a dans la table "user" de notre database "Workshop"
+      Ce fichier a pour but de créer des variables, correspondant aux champs présents dans notre table "user", de notre database "Workshop".
   
-  Exercice 3 :
-        
-       Implémenter UserRepository.java
-       
-       Ce fichier a pour but d'intéragir avec notre database "Workshop" et notre table "user"
-       Il vous faudra une fonction pour le login et une fonction poue le register
-  
-  Exercice 4 :
-  
-      Implémenter UserService.java
-      Maintenant que nous avons implémenter la possibilité de pouvoir communiquer avec la Database, nous allons maintenant gérer nos cas d'erreurs
-      
-  Exercice 5 :
-  
-      Implémenter UserController.java
-      Maintenant que nous avons gérer nos cas d'erreur nous pouvons créer nos routes login et signIn dans deux fonctions différentes pour différencier l'action que nous avons à faire dans la Database
+
       
      
       
