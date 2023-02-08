@@ -32,5 +32,13 @@ Etape 2:
       MySqlDriver
 
  
-      
-   
+ # Exercices :
+ 
+ 
+ Exercice 1 :
+ 
+ Créer une database "Workshop" avec mySql
+ Créer ensuite une table user avec :
+     - un id
+     - un username
+     - un password
