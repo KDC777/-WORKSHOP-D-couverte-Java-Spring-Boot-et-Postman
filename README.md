@@ -50,7 +50,12 @@ Etape 2:
   --> Ce fichier a pour but de stocker dans des variables ce qu'on a dans la table "user" de notre database "Workshop"
   
   Exercice 3 :
-  Implémenter UserService.java
-  --> ce fichier à pour objectif de définir notre route pour sign-in un user ou pour le login
+        
+       
+       Implémenter UserRepository.java
+       vrtr
+       brbrt
+       br
+       t
   
  
