@@ -1,1 +1,3 @@
-# -WORKSHOP-D-couverte-Java-Spring-Boot-et-Postman
+# WORKSHOP
+
+Création d'un système d'authentification en Java Spring Boot
