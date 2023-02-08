@@ -42,49 +42,49 @@ Etape 2:
  
        - un id
        - un username
-        - un password 
+       - un password 
  
  Vous devrez ensuite implémenter et configurer l'accés à votre database dans ressources/application.properties.
  
  
 Exercice 2 :
 
-  Implémenter User.java
+      Implémenter User.java
   
-  Ce fichier a pour but de créer des variables, correspondant aux champs présents dans notre table "user", de notre database "Workshop".
+      Ce fichier a pour but de créer des variables, correspondant aux champs présents dans notre table "user", de notre database "Workshop".
   
   
 Exercice 3 :
 
-  Implémenter UserController.java
+    Implémenter UserController.java
   
-  Le but est ici de pouvoir récupérer les informations passés par PostMan.
-  Vous devrez donc créer 2 routes différentes (Une pour le logIn et une pour le signIn).
+    Le but est ici de pouvoir récupérer les informations passés par PostMan.
+    Vous devrez donc créer 2 routes différentes (Une pour le logIn et une pour le signIn).
   
-  Vérifiez à l'aide de Postman et de prints que vous recevez bien le username et/ou le password !
+    Vérifiez à l'aide de Postman et de prints que vous recevez bien le username et/ou le password !
   
   
 Exercice 4 :
 
-   Implémenter UserRepository.java
+    Implémenter UserRepository.java
 
-   Ce fichier a pour but d'intéragir avec notre database "Workshop" de notre table "user".
-   Il vous faudra une fonction pour le logIn et une fonction pour le signIn.
+    Ce fichier a pour but d'intéragir avec notre database "Workshop" de notre table "user".
+    Il vous faudra une fonction pour le logIn et une fonction pour le signIn.
    
    
 Exercice 5 :
 
-  Implémenter UserService.java
-  Maintenant que nous avons implémenter la possibilité de pouvoir communiquer avec la Database et nos routes, il faut maintenant faire le lien entre 
-  les deux.
+    Implémenter UserService.java
+    Maintenant que nous avons implémenter la possibilité de pouvoir communiquer avec la Database et nos routes, il faut maintenant faire le lien entre 
+    les deux.
 
-  Vous pouvez utiliser à nouveau Postman pour envoyer des requêtes à notre serveur pour s'enregistrer ou s'authentifier !
-  Vérifier cependant dans votre database que tout fonctionne bien !
+    Vous pouvez utiliser à nouveau Postman pour envoyer des requêtes à notre serveur pour s'enregistrer ou s'authentifier !
+    Vérifier cependant dans votre database que tout fonctionne bien !
   
   
 Bonus :
 
-  Réaliser un front dans le langage de votre choix pour réaliser un formulaire d'authentification !
+    Réaliser un front dans le langage de votre choix pour réaliser un formulaire d'authentification !
        
   
  
