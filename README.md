@@ -8,7 +8,7 @@ Prérequis Workshop :
 
 Etape 1:
 
-  Instalation de Postman : https://www.postman.com
+  Installation de Postman : https://www.postman.com
 
 Etape 2:
   
@@ -17,13 +17,13 @@ Etape 2:
       Language : Java
       Spring boot : 3.0.2
       Project Metadata :
-          Group :
-          Artifact :
-          Name :
-          Description :
-          Package name :
-          Packaging :
-          Java :
+          Group : com.Auth
+          Artifact : auth
+          Name : auth
+          Description : Spring Boot Authentification
+          Package name : com.Auth
+          Packaging : Jar
+          Java : 11
           
   Dependencies :
 
