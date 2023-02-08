@@ -52,20 +52,37 @@ Etape 2:
       
       Ce fichier a pour but de créer des variables, correspondant aux champs présents dans notre table "user", de notre database "Workshop".
   
+  Exercice 3 :
 
+      Implémenter UserController.java
       
-     
+      Le but est ici de pouvoir récupérer les informations passés par PostMan.
+      Vous devrez donc créer 2 routes différentes (Une pour le logIn et une pour le signIn).
       
-  Exercice 6 :
+      Vérifiez à l'aide de Postman et de prints que vous recevez bien le username et/ou le password !
+      
+      
+  Exercice 4 :
+
+       Implémenter UserRepository.java
+
+       Ce fichier a pour but d'intéragir avec notre database "Workshop" de notre table "user".
+       Il vous faudra une fonction pour le logIn et une fonction pour le signIn.
+       
   
-      Vous pouvez désormais utiliser Postman pour envoyer des requètes à notre serveur pour s'enregistrer ou s'authentifier !
-      
+  Exercice 5 :
+
+      Implémenter UserService.java
+      Maintenant que nous avons implémenter la possibilité de pouvoir communiquer avec la Database et nos routes, il faut maintenant faire le lien entre 
+      les deux.
+  
+      Vous pouvez utiliser à nouveau Postman pour envoyer des requêtes à notre serveur pour s'enregistrer ou s'authentifier !
       Vérifier cependant dans votre database que tout fonctionne bien !
       
   
   Bonus :
   
-      Réaliser un front dans le langage de votre choix le formulaire d'authentification !
+      Réaliser un front dans le langage de votre choix pour réaliser un formulaire d'authentification !
       
     
       
