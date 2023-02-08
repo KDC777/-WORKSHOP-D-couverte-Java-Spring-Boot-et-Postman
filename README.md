@@ -79,7 +79,7 @@ Exercice 5 :
     les deux.
 
     Une fois fait :
-    Vous pouvez à nouveau utiliser Postman pour envoyer des requêtes à notre serveur pour s'enregistrer ou s'authentifier !
+    Vous pouvez à nouveau utiliser Postman pour envoyer des requêtes à votre serveur pour s'enregistrer ou s'authentifier !
     Vérifier cependant dans votre database que tout fonctionne bien !
   
   
