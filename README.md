@@ -3,9 +3,8 @@
 Création d'un système d'authentification en Java Spring Boot.
 Nous utiliserons Postman pour ajouter des utilisateurs à notre Database.
 
-------------------------------------------------------------------------------------------------------------------------------
 
-Prérequis Workshop :
+                                                                 Prérequis Workshop :
 
 Etape 1:
 
@@ -32,7 +31,6 @@ Etape 2:
       Spring Data Jpa
       MySqlDriver
 
-------------------------------------------------------------------------------------------------------------------------------
  
       
    
