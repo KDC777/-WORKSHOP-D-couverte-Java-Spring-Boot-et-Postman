@@ -85,7 +85,7 @@ Exercice 5 :
   
 Bonus :
 
-    Réaliser un front dans le langage de votre choix pour réaliser un formulaire d'authentification !
+    Réaliser un front pour le formulaire d'authentification !
        
   
  
