@@ -34,7 +34,7 @@ Etape 2:
   
   Une fois le projet télécharger, vous devrez ajouter dans le pom.xml :
         
-      	<dependency>
+      	  <dependency>
 			    <groupId>org.projectlombok</groupId>
 			    <artifactId>lombok</artifactId>
 			    <optional>true</optional>
