@@ -61,6 +61,9 @@ Etape 2:
 			    <groupId>org.springframework.boot</groupId>
 			    <artifactId>spring-boot-starter-security</artifactId>
 		  </dependency>
+		  
+		  
+ PS: En cas de difficulté, nous vous avons mis à disposition un repo prêt à être travaillé !
 
  
  # Exercices :
