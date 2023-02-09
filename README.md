@@ -30,6 +30,37 @@ Etape 2:
   
       Spring Data Jpa
       MySqlDriver
+  
+  
+  Une fois le projet télécharger, vous devrez ajouter dans le pom.xml :
+        
+      <dependency>
+			    <groupId>org.projectlombok</groupId>
+			    <artifactId>lombok</artifactId>
+			    <optional>true</optional>
+		  </dependency>
+		  <dependency>
+			    <groupId>org.hibernate.javax.persistence</groupId>
+			    <artifactId>hibernate-jpa-2.1-api</artifactId>
+			    <version>1.0.0.Final</version>
+		  </dependency>
+		  <dependency>
+			    <groupId>org.springframework.boot</groupId>
+			    <artifactId>spring-boot-starter-data-jpa</artifactId>
+		    </dependency>
+		  <dependency>
+			    <groupId>org.hibernate.javax.persistence</groupId>
+			    <artifactId>hibernate-jpa-2.1-api</artifactId>
+			    <version>1.0.0.Final</version>
+		  </dependency>
+		  <dependency>
+			    <groupId>org.springframework.boot</groupId>
+			    <artifactId>spring-boot-starter-data-jpa</artifactId>
+		  </dependency>
+		  <dependency>
+			    <groupId>org.springframework.boot</groupId>
+			    <artifactId>spring-boot-starter-security</artifactId>
+		  </dependency>
 
  
  # Exercices :
